@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/inspera/tslint-config-inspera/issues"
   },
-  "homepage": "https://github.com/inspera/tslint-config-inspera#readme"
+  "homepage": "https://github.com/inspera/tslint-config-inspera#readme",
+  "dependencies": {
+    "tslint": "^5.9.1",
+    "tslint-config-airbnb": "^5.5.0",
+    "typescript": "^2.7.1"
+  }
 }
